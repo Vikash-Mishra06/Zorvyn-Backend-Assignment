@@ -3,6 +3,13 @@
 ## Overview
 This is a backend system for a finance dashboard that supports user roles, financial records management, dashboard analytics, and role-based access control.
 
+## Live API
+
+Render Deployed Link:
+https://zorvyn-backend-assignment-61vw.onrender.com
+
+You can test APIs using Postman.
+
 ## Tech Stack
 - Node.js
 - Express.js
