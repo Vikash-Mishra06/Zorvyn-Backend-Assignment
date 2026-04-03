@@ -1,3 +1,4 @@
+// Defines user schema with roles and account status.
 import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema(

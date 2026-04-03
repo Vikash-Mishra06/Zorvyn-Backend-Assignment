@@ -1,3 +1,4 @@
+// Handles creating, fetching and filtering financial records.
 import Record from "../models/record.model.js";
 
 // create record

@@ -1,3 +1,4 @@
+// Defines financial records like income and expense entries.
 import mongoose from "mongoose";
 
 const recordSchema = new mongoose.Schema(

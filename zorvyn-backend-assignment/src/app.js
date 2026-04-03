@@ -1,3 +1,4 @@
+// Sets up express app with middlewares and routes.
 import express from "express";
 import cors from "cors";
 import userRoutes from "./routes/user.routes.js";

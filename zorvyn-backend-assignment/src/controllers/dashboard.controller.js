@@ -1,3 +1,4 @@
+// Handles dashboard analytics like totals, categories and recent records.
 import mongoose from "mongoose";
 import Record from "../models/record.model.js";
 

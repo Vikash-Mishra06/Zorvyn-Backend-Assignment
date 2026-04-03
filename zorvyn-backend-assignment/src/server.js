@@ -1,3 +1,4 @@
+// Entry point of the application, connects database and starts server.
 import dotenv from "dotenv";
 dotenv.config();
 import app from "./app.js";

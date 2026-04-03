@@ -1,3 +1,4 @@
+// Verifies jwt token and attaches user info to request.
 import jwt from "jsonwebtoken";
 
 const authMiddleware = (req, res, next) => {
